@@ -1,4 +1,3 @@
-# Flappy-bird-clone
 # Sky Hopper
 
 A small Flappy Bird-style game that runs directly in your browser. It uses
@@ -23,4 +22,3 @@ python -m http.server 8000
 ```
 
 Then visit <http://localhost:8000>.
-
